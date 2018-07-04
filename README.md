@@ -1,5 +1,5 @@
 # Deeplearning Get Started
-A concrete get started for deep learning in Vthree.AI
+A concrete get started for deep learning in Vthree.AI (Chinese required)
 
 ## Prerequisite
 Python2.7: http://www.runoob.com/python/python-tutorial.html
