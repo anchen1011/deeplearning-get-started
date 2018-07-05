@@ -60,8 +60,8 @@ Clear execution flow (example: https://github.com/opringle/multivariate_time_ser
 ### Inference Procedure 
 Clear handler, where input format is clearly defined. Should be runnable with:
 ```
-from inference_module import handler
-handler(input, context=None)
+>>> from inference_module import handler
+>>> handler(input, context=None)
 ```
 
 ### Dependency
