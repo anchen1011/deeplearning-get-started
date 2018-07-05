@@ -52,3 +52,20 @@ NLP-toolbox: https://zh.gluon.ai/chapter_computer-vision/index.html
 CNN: https://zh.gluon.ai/chapter_computer-vision/bounding-box.html
 
 LSTM: https://zh.gluon.ai/chapter_recurrent-neural-networks/lstm.html
+
+## 7. Deliverables Guidelines
+### **Optional** Training Procedure
+Clear execution flow (example: https://github.com/opringle/multivariate_time_series_forecasting)
+
+### Inference Procedure 
+Clear handler, where input format is clearly defined. Should be runnable with:
+```
+from inference_module import handler
+handler(input, context=None)
+```
+
+### Dependency
+Document all dependencies with version information (example: mxnet==0.12.3)
+
+### Environment
+Document the environment information including machine image/AMI information
