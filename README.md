@@ -15,6 +15,8 @@ unix: http://linuxcommand.org/lc3_learning_the_shell.php
 ## Documentation
 Official Doc: https://mxnet.apache.org
 
+Best Practice: https://mxnet.incubator.apache.org/faq/security.html
+
 CheatSheet: https://github.com/anchen1011/Awesome-MXNet/blob/master/apache-mxnet-cheat.pdf
 
 ## Very Good Tutorials
