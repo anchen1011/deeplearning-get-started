@@ -54,7 +54,7 @@ CNN: https://zh.gluon.ai/chapter_computer-vision/bounding-box.html
 LSTM: https://zh.gluon.ai/chapter_recurrent-neural-networks/lstm.html
 
 ## 7. Deliverables Guidelines
-### **Optional** Training Procedure
+### Training Procedure (optional)
 Clear execution flow (example: https://github.com/opringle/multivariate_time_series_forecasting)
 
 ### Inference Procedure 
